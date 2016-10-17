@@ -128,3 +128,7 @@ Roxo: #6A4881;
 
   }
 
+.container {
+  padding-left: 0;
+  padding-right: 0;
+}
