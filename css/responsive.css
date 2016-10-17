@@ -92,7 +92,7 @@ Roxo: #6A4881;
     z-index: 999;
     width: 300px;
     position: absolute;
-    top: 0;
+    top: -1em;
     text-align: left;
     font-size: 1.5em;
     /* This trasform moves the drawer off canvas. */
