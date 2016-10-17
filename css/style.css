@@ -100,3 +100,10 @@ body {
 .thumbnail:hover p, .thumbnail:hover h3{
 	color: #6A4881;
 }
+
+#footer {
+	background-color: #303135;
+	color: #F26432;
+	padding: 1em;
+	border-radius: 5px;
+}
