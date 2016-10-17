@@ -1,5 +1,5 @@
 
-@import url(http://weloveiconfonts.com/api/?family=zocial);
+
 
 /* zocial */
 [class*="zocial-"]:before {
@@ -120,8 +120,7 @@ body {
 	padding: 0;
 }
 
-.social a {
-	
+.social a {	
 	display: inline-block;
 	font-size: 30px;
 	background-color: #1a1a1b;
@@ -140,4 +139,8 @@ body {
 
 .zocial-facebook {
 	color: #3B5998;
+}
+
+.about {
+	padding-bottom: 2em;
 }
