@@ -1,3 +1,10 @@
+
+@import url(http://weloveiconfonts.com/api/?family=zocial);
+
+/* zocial */
+[class*="zocial-"]:before {
+  font-family: 'zocial', sans-serif;
+}
 body {
 	font-family: 'Open Sans', sans-serif;
 	background-color: #EFEFEF;
@@ -106,4 +113,31 @@ body {
 	color: #F26432;
 	padding: 1em;
 	border-radius: 5px;
+}
+
+.social ul {
+	list-style: none;	
+	padding: 0;
+}
+
+.social a {
+	
+	display: inline-block;
+	font-size: 30px;
+	background-color: #1a1a1b;
+	width: 90px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.social ul li:hover {
+	opacity: 1;
+}
+
+.zocial-linkedin {
+	color: #4875B4;
+}
+
+.zocial-facebook {
+	color: #3B5998;
 }
