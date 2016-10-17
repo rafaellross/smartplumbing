@@ -125,12 +125,10 @@ Roxo: #6A4881;
     border-bottom: 1px solid #E0E0E0;
     width: 100%;
     text-align: left;
-
   }
 
-
 #footer {
-  padding-left: 100px;
+  /*padding-left: 100px;*/
 }
 
 .about-pic {
