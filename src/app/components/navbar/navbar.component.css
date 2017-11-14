@@ -1,0 +1,37 @@
+.nav {
+    background-color: #563d7c;
+    min-height: 4rem;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 99;        
+}
+
+.nav-item {
+    padding-top: 1em;
+    
+}
+
+.nav-item a {
+    color: #E36B2C;
+    font-weight: bold;
+}
+
+.nav-item:hover {
+    background-color: #E36B2C;    
+}
+
+.nav-item a:hover {
+    color: #563d7c;
+}
+
+.active {
+    background-color: #E36B2C;   
+    padding-top: 1em;
+    
+}
+
+.active a {
+    color: #563d7c;
+}

@@ -1,0 +1,10 @@
+#home { background: url(https://www.nxworld.net/example/css-scroll-down-button/bg01.jpg) center center / cover no-repeat;}
+
+.back-to-top {
+    cursor: pointer;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;    
+    background-color: #563d7c;
+    color: #E36B2C;  
+}

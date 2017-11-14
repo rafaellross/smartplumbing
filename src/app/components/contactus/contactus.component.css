@@ -1,0 +1,34 @@
+#contactus {
+    background-color: #fff;
+  }
+  #contactus::after {
+    content: none;
+  }
+  #contactus div {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 2;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  #contactus h2 {
+    margin-bottom: 60px;
+    color: #333;
+    font : normal 300 64px/1 'Josefin Sans', sans-serif;
+    text-align: center;
+    white-space: nowrap;
+  }
+  #contactus p {
+    color: #333;
+    font : normal 400 20px/1 'Josefin Sans', sans-serif;
+  }
+  #contactus p a {
+    color: #333;
+    text-decoration: none;
+    transition: color .3s;
+  }
+  #contactus p a:hover {
+    color: darkmagenta;
+  }
